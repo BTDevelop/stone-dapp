@@ -55,7 +55,7 @@
     "ipfs-mini": "^1.1.2",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "react-loader": "^2.4.2",
+    "react-loader": "^2.4.7",
     "react-notification-system": "^0.2.15"
   },
   "scripts": {
